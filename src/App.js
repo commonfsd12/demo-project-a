@@ -6,6 +6,8 @@ import demo from './demo';
 function App() {
   return (
     <demo></demo>
+    <demo>Sup</demo>
+    <demo></demo>
   );
 }
 
